@@ -30,4 +30,4 @@ You can read, follow or drop me a line on my personal Twitter account - [@iAlexa
 If you find any issues on the project, you can open a ticket.  
 Pull requests are also welcome!
 
-[![iAlexander - Нотатки громадянина України](https://raw.githubusercontent.com/iAlexander/Pumpkins/master/Footer.png)](https://twitter.com/iAlexander13)
+[![iAlexander - Нотатки громадянина України](https://raw.githubusercontent.com/iAlexander/Pumpkins/master/Footer.jpg)](https://twitter.com/iAlexander13)
